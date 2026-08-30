@@ -1,0 +1,25 @@
+{
+  "name": "jordan-1-colorway-studio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Air Jordan 1 High OG — interactive 3D product-poster landing page. React + Vite.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node server.mjs",
+    "keyout": "node scripts/keyout.mjs",
+    "recolor": "node scripts/recolor.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "jpeg-js": "^0.4.4",
+    "pngjs": "^7.0.0",
+    "vite": "^8.2.2"
+  }
+}
