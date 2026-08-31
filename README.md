@@ -6,8 +6,13 @@ An interactive visual presentation showcasing six iconic Air Jordan 1 colorways.
 
 ---
 
+### 🎨 Preview
+![Preview](docs/preview.jpg)
+
+### 🛒 Cart Drawer
+![Cart](docs/cart.jpg)
+
+---
+
 ### Assets Showcase
 This repository contains visual assets, screenshots, and media previews associated with the Jordan 1 Colorway Studio concept.
-
-- High-resolution sneaker renders and colorways
-- Interface design previews
